@@ -6,6 +6,8 @@
 pip install -r requirements.txt
 ```
 
+2. restore database `ch08_.ConstructCo.dump`
+
 ## Homework instruction
 
 1. write sql to a function on the following file `job.py` `project.py` `employee.py`.
